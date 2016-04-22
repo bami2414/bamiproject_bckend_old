@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jersey"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-jaxrs-json-provider-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-databind-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-jaxrs-base-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-module-jaxb-annotations-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/therockersandip5/Downloads/eclipse-jee-luna-SR2-win32-x86_64/jackson-annotations-2.3.2.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
